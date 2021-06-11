@@ -12,7 +12,7 @@ A Bot For Activities ( Fishington, Yt - Together ,etc. ) In Discord Voice Channe
 
 ## Support 
 - Stuck in the project and having some problems? or Bugs? Dm me on Discord ShinchanPlayZ™#2196 
-- Join the [Support Server](https://discord.com/invite/FMkBAb3CKS)
+- Join the [Support Server](https://discord.gg/FKbxgZtR5M)
 
 ## Donate
 - ` console.log("This is Optional xD") `
