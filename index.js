@@ -9,7 +9,7 @@ const helpembed = new Discord.MessageEmbed()
     .setDescription("So here's what i Can do!", "```Misc```****-help**** *get some help*\n****-invite**** *invite my bot*\n\
 ```Activities```****-YouTube-together**** *Watch some youtube with your friend!*\n****-poker**** *Play some poker with your friend!*\n****-betrayal**** *Wanna play among us from discord?*\n****-fishing**** *Catch some fish with your friend!*\
 ")
-    .setFooter('Activites in voice Channel [By ShinchanPlayZ](https://github.com/apidev234/)')
+    .setFooter('Activites in voice Channel [By Gaurishhs](https://github.com/gaurishhs/)')
 
 client.on('ready', () => {
     console.log(`Activites : Logged in as ${client.user.tag}`);
